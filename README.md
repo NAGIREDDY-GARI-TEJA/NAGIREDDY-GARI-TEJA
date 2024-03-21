@@ -1,4 +1,4 @@
-## Abour me
+## About me
 - 👋 Hi, I’m **NAGIREDDY GARI TEJA**
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Machine learning
