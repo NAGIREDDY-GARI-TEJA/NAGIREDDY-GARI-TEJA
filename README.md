@@ -1,9 +1,10 @@
-## About me
+### Here is what I am working on!
 - 👋 Hi, I’m **NAGIREDDY GARI TEJA**
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Data Science related projects
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Natural Language Processesing
+- 💞️ I’m looking to collaborate on Projects computer Vision
 - Reach me at [LinkedIn](https://www.linkedin.com/in/teja-nagireddy-gari-784673230/)
+-  Pronouns: She/ Her
 
 
 <!---
