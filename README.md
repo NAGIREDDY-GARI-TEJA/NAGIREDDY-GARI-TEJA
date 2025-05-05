@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **NAGIREDDY GARI TEJA**
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Natural Language Processesing
-- 💞️ I’m looking to collaborate on Projects computer Vision
+- 💞️ I’m looking to collaborate on Computer Vision Projects
 - Reach me at [LinkedIn](https://www.linkedin.com/in/teja-nagireddy-gari-784673230/)
 -  Pronouns: She/ Her
 
